@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Window1.xaml](./CS/CreateTabbedAndDocumentGroups/Window1.xaml) (VB: [Window1.xaml](./VB/CreateTabbedAndDocumentGroups/Window1.xaml))
-* [Window1.xaml.cs](./CS/CreateTabbedAndDocumentGroups/Window1.xaml.cs) (VB: [Window1.xaml](./VB/CreateTabbedAndDocumentGroups/Window1.xaml))
+* [Window1.xaml.cs](./CS/CreateTabbedAndDocumentGroups/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/CreateTabbedAndDocumentGroups/Window1.xaml.vb))
 <!-- default file list end -->
 # How to create a TabbedGroup and DocumentGroup groups
 

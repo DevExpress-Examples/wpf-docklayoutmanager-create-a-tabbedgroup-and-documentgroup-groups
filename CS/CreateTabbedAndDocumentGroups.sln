@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateTabbedAndDocumentGroups", "CreateTabbedAndDocumentGroups\CreateTabbedAndDocumentGroups.csproj", "{7B6819CC-3F0B-495F-AF04-B4D446D02F1C}"
 EndProject
 Global
